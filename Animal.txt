@@ -1,3 +1,5 @@
 welcome Animals!
 Tiger
 Lion
+Elephant
+Snake
