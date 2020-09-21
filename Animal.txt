@@ -3,3 +3,5 @@ Tiger
 Lion
 Elephant
 Snake
+Deer
+Bear
